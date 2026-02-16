@@ -1,0 +1,9 @@
+Python
+TensorFlow
+Keras
+Flask
+Werkzeug
+NumPy
+OpenCV
+Matplotlib
+Pillow
